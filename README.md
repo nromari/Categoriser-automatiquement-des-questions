@@ -11,3 +11,10 @@ Méthode :
 - Mettre en œuvre une approche purement supervisée et comparer les résultats avec l’approche non supervisée. Plusieurs méthodes d’extraction de features seront testées et comparées ; au minimum :
 une approche de type bag-of-words ; 3 approches de Word/Sentence Embedding : Word2Vec (ou Doc2Vec, Glove…), BERT et USE. 
 -Mettre en place une méthode d’évaluation propre, avec une séparation du jeu de données pour l’évaluation.
+
+Compétences :
+
+- Prétraiter des données non structurées pour obtenir un jeu de données exploitable
+- Mettre en œuvre des techniques de réduction de dimension
+- Mettre en œuvre des techniques d’extraction de features pour des données non structurées
+- Représenter graphiquement des données à grandes dimensions
